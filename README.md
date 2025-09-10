@@ -17,7 +17,7 @@
 - SQL (PostgreSQL) - queried large and separate datasets using joins, aggregation, group by, filtering, etc.
 - Data Analysis
   - established baseline success rate of startup ecosystem; calculated the number of closed-down companies, average deal size, total capital raised, etc.
-  - identified top-performing industries, cash-based acquisitions during post-recession period (2011-2013), industry finance-focused influencers for partnership, countries that attract more venture pactial to help clients in decision making and where to focus their international investment strategies, and the impact of employees' educational background on startup       success.
+  - identified top-performing industries, cash-based acquisitions during post-recession period (2011-2013), industry finance-focused influencers for partnership, countries that attract more venture capital to help clients in decision making and where to focus their international investment strategies, and the impact of employees' educational backgrounds on startup       success.
     
 **Executive Summary:** Analysis revealed critical insights into the venture capital landscape:
 - Startup sucess rates varies sharply, with acquisition dominating certain high-growth industries while others showed higher failure rates after the furst funding round.
